@@ -16,7 +16,6 @@ Syntax highlighted code block
 - fat
 is this you then you are fat 
 ![this is going to be u fat boi](https://cdn-b.medlife.com/2018/01/a-fat-man.png)
-
 1. Numbered
 2. List
 
