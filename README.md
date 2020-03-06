@@ -1,8 +1,6 @@
 ##### WELCOME TO OBESITY HELP V3
 
-You can use the [editor on GitHub](https://github.com/TheTiminator74/Obesity-Help-V3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hey want free candy that lowers your obesity thing also this does cool and then you not fat and big yes and tom hanks lives in wisconcsin then there is cool cool john cena and cool
 
 ### Markdown
 
